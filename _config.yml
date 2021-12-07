@@ -25,12 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   and share my latest thoughts on topics including software engineering,
   philosophy, politics, food, and whatever else I'm currently obsessed with.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://isakjones.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "isakjones.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isak_jones
 github_username:  IsakJones
 
 # Build settings
-# theme: ockham
+remote_theme: ockham
 plugins:
   - jekyll-feed
 
