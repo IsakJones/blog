@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why did I switch to Software Engineering?"
+title:  "Why the switch to Software Engineering?"
 date:   2021-12-06 18:20:49 +0100
 categories: programming lifestyle
 ---
