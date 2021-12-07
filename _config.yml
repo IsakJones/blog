@@ -30,7 +30,7 @@ twitter_username: isak_jones
 github_username:  IsakJones
 
 # Build settings
-remote_theme: ockham
+remote_theme: zivong/ockham
 plugins:
   - jekyll-feed
 
