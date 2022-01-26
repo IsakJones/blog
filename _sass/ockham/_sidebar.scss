@@ -1,4 +1,7 @@
 .sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   position: fixed;
   top: 0;
   bottom: 0;

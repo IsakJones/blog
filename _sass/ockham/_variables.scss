@@ -43,12 +43,12 @@ $xl-screen: 80rem;
   --body-color: var(--oc-gray-8);
   --body-bg: var(--oc-white);
 
-  --link-color: var(--oc-green-8);
+  --link-color: var(--oc-orange-7);
 
   --title-font: 'PP Gosha Sans', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   --title-font-size: 22px;
 
-  --heading-color: var(--oc-green-8);
+  --heading-color: var(--oc-orange-7);
 
   --code-font: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
   --code-bg: var(--oc-gray-1);
@@ -67,6 +67,7 @@ $xl-screen: 80rem;
     --body-bg: var(--oc-gray-9);
 
     --link-color: var(--oc-green-8);
+    --heading-color: var(--oc-green-8);
 
     --code-bg: var(--oc-gray-8);
   }
