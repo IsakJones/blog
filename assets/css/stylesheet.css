@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'PP Gosha Sans';
+    src: url('PPGoshaSans-Regular.woff') format('woff'),
+        url('PPGoshaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Object Sans';
+    src: url('PPObjectSans-Regular.woff') format('woff'),
+        url('PPObjectSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

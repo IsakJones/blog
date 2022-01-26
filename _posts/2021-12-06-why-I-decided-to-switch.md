@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Why the switch to Software Engineering?"
+title:  "Why Switch to Software Engineering?"
 date:   2021-12-06 18:20:49 +0100
 categories: programming lifestyle
 ---
-Pursuing a career in software engineering was not an easy choice. When I committed to the career switch, I had just graduated from university in a non-technical subject without any formal training in programming or connections in the tech industry. Moreover, I was academically accomplished in International Relations and I had landed internships at respected institutions in the field, so I was not without alternatives. Despite my circumstances, three reasons spurred the change to software engineering: 
+Pursuing a career in software engineering was not an easy choice. When I committed to the career switch, I had just graduated from university in a non-technical subject without any formal training in programming or connections in the tech industry. 
+<!--end_of_excerpt--> 
+Moreover, I was academically accomplished in International Relations and I had landed internships at respected institutions in the field, so I was not without alternatives. Despite my circumstances, three reasons spurred the change to software engineering: 
 1. Intellectual challenge
 2. Quality of life
 3. Positive impact

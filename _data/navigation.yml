@@ -4,3 +4,13 @@
    url: /resume
  - title: About
    url: /about
+
+- title: Email
+  url: isak.jones.980@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/isak_jones
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/sekerez
+  icon: fab fa-github
