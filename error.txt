@@ -1,0 +1,4 @@
+Authentication is required for rubygems.pkg.github.com.
+Please supply credentials for this source. You can do this by running:
+`bundle config set --global rubygems.pkg.github.com username:password`
+or by storing the credentials in the `BUNDLE_RUBYGEMS__PKG__GITHUB__COM` environment variable

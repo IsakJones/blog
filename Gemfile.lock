@@ -71,7 +71,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2.1)
   jekyll-feed (~> 0.12)
-  jekyll-pdf-embed
+  jekyll-pdf-embed (= 1.1.2.1)
   ockham
   tzinfo (~> 1.2)
   tzinfo-data
