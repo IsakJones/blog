@@ -5,7 +5,7 @@ date:   2022-01-27 18:20:49 +0100
 categories: programming knowledge
 ---
 How do we really learn? The question may sound abstract, but I believe that all our educational institutions hold a distinct idea of what constitutes learning, no matter how hidden it might be.
-
+<!--end_of_excerpt-->
 The Italian university system is a great example. In Italy, most courses have a straightforward structure: in the first half, students attend long lectures taking copious notes, then in the second half they review their notes and study one or more related textbooks for a final exam. Notably, the final exam often determines 100% of the course's grade, and is usually multiple-question, testing student's retention of knowledge. I know this because I grew up in Italy and most of my college-educated friends went or are going through this system. Despite no one telling me, the Italian educational system seems to revolve around the distinct idea that people learn by absorbing information from professors in classes or from textbooks, and that the resulting knowledge consists in recalling the absorbed information.
 
 Of course, I'm overgeneralizing a little bit. Some friends in engineering and architecture have had more project-oriented academic assessments. Others in medicine and nursing have held mandatory interships in their local hospitals. But that doesn't take away from the overarching idea of how the mind processes information and crystallizes learning. 
