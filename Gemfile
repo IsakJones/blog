@@ -31,7 +31,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # For jekyll pdf embedder plugin
 group :jekyll_plugins do
-  gem "jekyll-pdf-embed", "1.1.2.1"
+  gem "jekyll-pdf-embed", "1.1.2"
 end
 
 # source "https://rubygems.pkg.github.com/mihajlonesic" do
