@@ -33,6 +33,7 @@ github_username: sekerez
 remote_theme: zivong/ockham
 plugins:
   - jekyll-feed
+  # - jekyll-pdf-embed
 
 # Style settings
 excerpt_separator: "<!--end_of_excerpt-->"
