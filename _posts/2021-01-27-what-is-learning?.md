@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Learning?"
-date:   2021-12-06 18:20:49 +0100
+date:   2022-01-27 18:20:49 +0100
 categories: programming knowledge
 ---
 How do we really learn? The question may sound abstract, but I believe that all our educational institutions hold a distinct idea of what constitutes learning, no matter how hidden it might be.
