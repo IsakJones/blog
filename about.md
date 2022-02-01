@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm an aspiring software engineer looking for a junior role. I'm most interested in backend development, and I am particularly passionate about fintech, but my priority is finding a role where I can learn, be challenged, and deliver concrete results. I'm currently attending the [Recurse Center](https://www.recurse.com), a selective, self-directed, community-driven educational retreat for programmers.
+I'm an aspiring software engineer looking for a junior role. I'm currently attending the [Recurse Center](https://www.recurse.com), a selective, self-directed, community-driven educational retreat for programmers.
 
 I've mostly coded in Go and Python and used tools such as Git, Github, and PostgreSQL. I'm currently working on a payments processor API, [Polka](https://www.github.com/IsakJones/polka). I'm also passionate about developing a well-rounded [computer science education](https://www.teachyourselfcs.com) - I've mainly studied algorithms and networking, but I'm also familiar with the basics of other topics, including databases, concurrency, operating systems, programming paradigms, and computer architecture. 
 
