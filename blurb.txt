@@ -1,0 +1,9 @@
+Blurb:
+
+"""
+I wanted to highlight aspects of my past professional experience that I think make me a particularly good fit for Alza.
+
+I have experience researching the payments industry in Latin America, with a specific focus on the underbanked and how digital banks could widen accessibility to high-quality financial services. This was at McLarty Associates, where I worked on policy research in Mexico and spent most of my time working for a large digital payments processor expanding in the region. While this research was focused on Latin America and not the US, it also uncovered the intimate financial ties between US Latinos and their families abroad. Alza's mission to provide financial services to Latin Americans makes me particularly eager to join the company!
+
+I also believe that my prior administrative experience makes me a good candidate. In my past professional roles, I've had formal phone calls with corporate representatives and conducted a variety of administrative tasks with attention to detail, including in Spanish. Even in an engineering role, I would never be above picking up the phone or balancing a ledger.  
+"""
